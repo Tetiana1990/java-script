@@ -1,4 +1,4 @@
-let fruits=['apple', 'apricot','avocado','banana','coconat','kiwi','lemon','lime','mango','orange'];
+let fruits=['apple','avocado','avocado','banana','coconat','kiwi','lemon','lime','mango','orange'];
 console.log(fruits);
 console.log(fruits[0]);
 console.log(fruits[1]);
